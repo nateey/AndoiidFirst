@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73831502036",
+    "project_id": "grinn-47116",
+    "storage_bucket": "grinn-47116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73831502036:android:f94a50fb820b99f1f72b41",
+        "android_client_info": {
+          "package_name": "com.example.grinn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73831502036-fvr73d2iv529ikm4hgt509q7mbc36cop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HJ-3HSi3xrY7ylcG2D6G3pUqqqYBZNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73831502036-fvr73d2iv529ikm4hgt509q7mbc36cop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
